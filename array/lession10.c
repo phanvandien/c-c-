@@ -1,0 +1,1 @@
+// nho nhat va nho thu hai viet chuong trinh nhap vao mang A gom n phan tu so nguyen(2<n<100)
